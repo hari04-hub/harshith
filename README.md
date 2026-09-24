@@ -1,6 +1,1 @@
-﻿# Harshith
-
-Agile is an iterative model,flexible project management approach which breaks large modules into small manageable steps called sprints.it priotizes the cross functional collaboration , continuous delivery and rapid adoption to customer feedback and rigid upfront planning.
-
-git is a distributed version control sytem that tracks changes in computer files and coordinates works among multiple developers , it allows you to record code history,revert to previous versions and collaborating wihout overwritting other work
-
+﻿# harshith
